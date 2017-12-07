@@ -1,0 +1,37 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+img {
+  width: 100%;
+}
+
+.main {
+  background-color: #F4BC68;
+  color: white;
+  padding: 50px 30px;
+  text-align: right;
+}
+
+.panda-principal {
+  filter:grayscale(100%);
+  background-image: url('../assets/images/a1.jpg');
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.pinky-line {
+  height: 20px;
+  background-color: #F4BC68;
+}
+
+.green-text {
+  padding: 100px 0;
+  background-color: #ABE188;
+}
+
+.green-text .col-xs-4 {
+  padding: 20px;
+  background-color: #F4BC68;
+  color: white;
+}
